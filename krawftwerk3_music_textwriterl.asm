@@ -642,6 +642,13 @@ texte
     db 'ASSEMBLY    '
     db 'CODE BY     '
     db 'SID AND SIKO'
+    
+    db 'THIS PROJECT'
+    db 'ASSEMBLED   '
+    db 'USING RASM  '
+    db 'BY ROUDOUDOU'
+    db '            '
+
 
     db 'MUSIC BY    '
     db 'SIKO        '
@@ -649,6 +656,7 @@ texte
     db 'ARKOS PLAYER'
     db 'BY TARGHAN  '
 
+ 
     db 'ALL CODE AND'
     db 'DATA FILES  '
     db 'AVAILABLE   '
