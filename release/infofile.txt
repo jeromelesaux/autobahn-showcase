@@ -1,0 +1,46 @@
+MARTINE SHOWCASE by SID/IMPACT
+https://github.com/jeromelesaux
+          2020
+
+    db 'THIS IS NOT '
+    db 'A DEMO JUST '
+    db 'A SHOWCASE  '
+    db 'FOR MARTINE '
+    db 'SOFTWARE    '
+
+    db 'THIS SHORT  '
+    db 'ANIMATION   '
+    db 'IS A TRIBUTE'
+    db 'TO KRAFTWERK'
+    db '            '
+    db 'FATHERS     '
+    db 'OF          '
+    db 'ELECTRONIC  '
+    db 'MUSIC       '
+    db '            '
+
+    db 'ANIMATION   '
+    db 'FRAMES WERE '
+    db 'TRANSFERED  '
+    db 'TO CPC USING'
+    db 'MARTINE     '
+
+    db 'MARTINE     '
+    db 'AND         '
+    db 'ASSEMBLY    '
+    db 'CODE BY     '
+    db 'SID AND SIKO'
+    
+    db 'THIS PROJECT'
+    db 'WAS         '
+    db 'ASSEMBLED   '
+    db 'USING RASM  '
+    db 'BY ROUDOUDOU'
+
+    db 'MUSIC BY    '
+    db 'SIKO        '
+    db 'USING       '
+    db 'ARKOS PLAYER'
+    db 'BY TARGHAN  '
+
+
