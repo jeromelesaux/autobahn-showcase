@@ -8,7 +8,7 @@ logo_position equ #c000+96*19
 ;-----------------------------
 
 ;Uncomment this line for SNA Export instead of DSK
-EXPORT_SNA EQU 1
+;EXPORT_SNA EQU 1
 
 ifdef EXPORT_SNA
  buildsna  v2
@@ -674,12 +674,6 @@ texte
     db 'TOOL ON     '
     db 'GITHUB      '
     db 'WEBSITE     '
-    db '            '
-
-    db 'AUTOBAHN    '
-    db '            '
-    db 'KEEP ON     '
-    db 'CODING      '
     db '            '
 
     db 'OOO OOO OOO '
